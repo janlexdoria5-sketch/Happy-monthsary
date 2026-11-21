@@ -246,6 +246,8 @@ body {
        #8A3158,
         #ff80c8,
         #8A3158 );
+    postion: fixed;
+    left: 10vw;
    background-clip: text;
    -webkit-background-clip: text;
    color: transparent;
